@@ -1,0 +1,34 @@
+[
+    {
+      "title": "Cerveza Corona ",
+      "description": "Estilo de cerveza: American Adjunct Lager Color: Rubia Origen: México Es cerveza artesanal: No Es cerveza sin alcohol: No Graduación alcohólica: 4.5 %. ",
+      "thumbnail": "https://d1on8qs0xdu5jz.cloudfront.net/web/images/fotos/b/0000000060/92_1.jpg",
+      "price": 545,
+      "stock": 10,
+      "code": "12334"
+    },
+    {
+      "title": "Cerveza Heineken",
+      "description": "Estilo de cerveza es  Rubia Es libre de gluten: No Volumen de la unidad 73 mL Origen: Holanda.",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_602277-MLA44526951920_012021-F.webp",
+      "price": 460,
+      "stock": 20,
+      "code": "B12345"
+    },
+    {
+      "title": "Cerveza Quilmes",
+      "description": "Línea Clásica Estilo de cerveza: Lager Es libre de gluten: No, Color: Rubia Origen: Argentina. ",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_717222-MLA44743610449_012021-F.webp",
+      "price": 390,
+      "stock": 38,
+      "code": "12346"
+    },
+    {
+      "title": "Cerveza Patagonia",
+      "description": "Estilo de cerveza: Bohemian Pilsener, Color: Rubia Origen: Argentina Es cerveza artesanal: No ,Graduación alcohólica: 5.2 %. ",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_759537-MLA50464478997_062022-F.webp",
+      "price": 570,
+      "stock": 95,
+      "code": "12347"
+    }
+]
